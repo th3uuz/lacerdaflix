@@ -1,37 +1,37 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Top Musicas",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Top Musicas Internacionais Para Você Ouvir",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Drake - God's Plan",
+          "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Travis Scott - SICKO MODE ft. Drake (Official Video)",
+          "url": "https://www.youtube.com/watch?v=6ONRf7h3Mdk"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Gucci Mane, Bruno Mars, Kodak Black - Wake Up in The Sky [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=U68MJz9DrI4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=LPTlvQ1Zet0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Migos - Walk It Talk It ft. Drake (Official Video)",
+          "url": "https://www.youtube.com/watch?v=fGqdIPer-ms"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Ayo & Teo - Rolex (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=lwk5OUII9Vc"
         },
         {
           "titulo": "Novidades do Angular v9",

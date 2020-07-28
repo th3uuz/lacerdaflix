@@ -32,15 +32,7 @@
         {
           "titulo": "Ayo & Teo - Rolex (Official Music Video)",
           "url": "https://www.youtube.com/watch?v=lwk5OUII9Vc"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }       
       ]
     },
     {
@@ -62,14 +54,6 @@
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
           "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     },

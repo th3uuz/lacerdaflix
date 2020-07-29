@@ -19,8 +19,6 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
-
-  
   
   .slick-prev {
     left: 5px;

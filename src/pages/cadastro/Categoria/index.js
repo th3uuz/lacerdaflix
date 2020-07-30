@@ -24,31 +24,21 @@ function CadastroCategoria() {
     const{ value } = e.target
     setValue(
       e.target.getAttribute('name'),
-      value
-      
+      value 
     )
   }
 
 
   useEffect(() => {
     console.log('alo alo alo')
-    setTimeout(() => {
-      setCategorias([
-        ...categorias,
-        {
-          "id": 1,
-          "nome": "Front End",
-          "descricao": "Uma categoria dahora",
-          "cor": "#cbd1ff"
-        },
-        {
-          "id": 2,
-          "nome": "Back End",
-          "descricao": "Uma categoria dahora 2",
-          "cor": "#cbd1ff"
-        }
-      ])
-    }, 4 * 1000)
+    const url = 'http://localhost:8080/categorias'
+    fetch(url)
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json()
+        setCategorias({
+          ...resposta,
+        })
+      })
   }, [])
 
   return (
